@@ -1,0 +1,75 @@
+<LinearLayout
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/sample_main_layout">
+
+    <!-- Beginning of the code block for the location ****************************************** -->
+    <LinearLayout
+        android:id="@+id/layoutLocationInfo"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:weightSum="100"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editTextLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:text="@string/current_location"
+            android:inputType="none">
+            <requestFocus />
+        </EditText>
+
+        <LinearLayout
+            android:id="@+id/layButtonH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClick_btnGetLocation"
+                android:text="@string/get_live_location" />
+
+            <Button
+                android:id="@+id/btnLocationStop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClick_btnGetLocationStop"
+                android:text="@string/stop" />
+
+            <Button
+                android:id="@+id/btnLocationLast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClick_btnGetLocation2"
+                android:text="@string/last_location" />
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <!--  Ending of the code block for the location ******************************************** -->
+
+    <View
+          android:layout_width="match_parent"
+          android:layout_height="3dp"
+          android:background="@android:color/darker_gray" />
+
+    <FrameLayout
+          android:id="@+id/sample_content_fragment"
+          android:layout_weight="3"
+          android:layout_width="match_parent"
+          android:layout_height="0px" />
+
+</LinearLayout>
+

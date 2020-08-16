@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\84faa38cade94a448676ab1141daa13b\AndroidManifest.xml:17:1-24:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b5eb0b187efdfa851b56672047d4f730\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d3518a41aa137a8b666ca266de84400e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\483c56ae0414023f0072a0e2e5de547f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\68abbedb42d66e5f1af9ad3d19a4af99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5508d4a69b820f857240833b78f50338\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b2130edf4212e00d309f512d12214b6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1f2894e918c75b42220eccd17ab14f58\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b58b4ca56d059b7c1dc9ab2940310fe3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\69fdd304d5660f3d8e62aae74207e159\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5126860bacbb45880883dc8460fb51c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e00ff4cb03f2c8525d5692fee8ba5ffc\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bf57c9bdb8ac177d73dd543ecf24089f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0fe83de145f7af79a75a6f54bb9a1566\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8ac0582db6d06b640453540a3c6e0c62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cd4e164251307d6331f7eb5210cd6839\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ca8fc84002a06f99818d430294f17dff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\13680f68db38800e920835df99c7bc68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c51845781bea33451c89f55d1cd10d51\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9f3d44f6b158b73f57f86ee5fb6a6bb8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\71a568b141867486ad2031030c1abc9d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:4:5-48
+	android:versionName
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:19:22-77
+application
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:22:5-47:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b5eb0b187efdfa851b56672047d4f730\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b5eb0b187efdfa851b56672047d4f730\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e00ff4cb03f2c8525d5692fee8ba5ffc\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e00ff4cb03f2c8525d5692fee8ba5ffc\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0fe83de145f7af79a75a6f54bb9a1566\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0fe83de145f7af79a75a6f54bb9a1566\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e00ff4cb03f2c8525d5692fee8ba5ffc\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:25:9-41
+	tools:ignore
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:27:9-48
+	android:icon
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:26:9-40
+activity#com.emergencyaidapp.bluetoothchat.MapActivity
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:28:9-30:47
+	android:label
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:29:13-32
+	android:theme
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:28:19-79
+activity#com.emergencyaidapp.bluetoothchat.MainActivity
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:34:13-45
+	android:configChanges
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:32:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:38:27-74
+activity#com.emergencyaidapp.bluetoothchat.DeviceListActivity
+ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:41:9-45:64
+	android:label
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:44:13-50
+	android:configChanges
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:43:13-63
+	android:theme
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:45:13-61
+	android:name
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml:42:13-80
+uses-sdk
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\84faa38cade94a448676ab1141daa13b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\84faa38cade94a448676ab1141daa13b\AndroidManifest.xml:20:5-22:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b5eb0b187efdfa851b56672047d4f730\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b5eb0b187efdfa851b56672047d4f730\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d3518a41aa137a8b666ca266de84400e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d3518a41aa137a8b666ca266de84400e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\483c56ae0414023f0072a0e2e5de547f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\483c56ae0414023f0072a0e2e5de547f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\68abbedb42d66e5f1af9ad3d19a4af99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\68abbedb42d66e5f1af9ad3d19a4af99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5508d4a69b820f857240833b78f50338\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5508d4a69b820f857240833b78f50338\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b2130edf4212e00d309f512d12214b6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b2130edf4212e00d309f512d12214b6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1f2894e918c75b42220eccd17ab14f58\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1f2894e918c75b42220eccd17ab14f58\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b58b4ca56d059b7c1dc9ab2940310fe3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b58b4ca56d059b7c1dc9ab2940310fe3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\69fdd304d5660f3d8e62aae74207e159\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\69fdd304d5660f3d8e62aae74207e159\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5126860bacbb45880883dc8460fb51c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5126860bacbb45880883dc8460fb51c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e00ff4cb03f2c8525d5692fee8ba5ffc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e00ff4cb03f2c8525d5692fee8ba5ffc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bf57c9bdb8ac177d73dd543ecf24089f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bf57c9bdb8ac177d73dd543ecf24089f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0fe83de145f7af79a75a6f54bb9a1566\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0fe83de145f7af79a75a6f54bb9a1566\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8ac0582db6d06b640453540a3c6e0c62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8ac0582db6d06b640453540a3c6e0c62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cd4e164251307d6331f7eb5210cd6839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cd4e164251307d6331f7eb5210cd6839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ca8fc84002a06f99818d430294f17dff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ca8fc84002a06f99818d430294f17dff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\13680f68db38800e920835df99c7bc68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\13680f68db38800e920835df99c7bc68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c51845781bea33451c89f55d1cd10d51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c51845781bea33451c89f55d1cd10d51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9f3d44f6b158b73f57f86ee5fb6a6bb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9f3d44f6b158b73f57f86ee5fb6a6bb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\71a568b141867486ad2031030c1abc9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\71a568b141867486ad2031030c1abc9d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\Herts Calisma\FPR and FDV Submission Link\Gelenler\Others\teslim\kodlar\2020_04_26_EmergencyAidApp\EmergencyAidApp\Application\src\main\AndroidManifest.xml
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.5] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9c68ee1f9cc41314530705b7618727d7\AndroidManifest.xml:26:9-45
