@@ -1,0 +1,10 @@
+# EmergencyAidApp-for-Android
+Initial
+
+
+This application is for Emergency Search and Rescue in Post-Disaster Time
+
+Almost all people have smart-phone and have some hardware/software on it. Unfortunately, mobile lines may become unusable after the earthquake for a period of time because of the effects of the earthquake on cell phone base stations. People who are still alive under building wreck may have a smartphone but cannot communicate with others because of unusable mobile lines. However, Bluetooth and GPS (Global Positioning System) exist in almost on all smartphones. In such cases, the affected person can still use the built-in hardware (GPS and Bluetooth) to send information to other people trying to help them.
+The major target is to create a mobile app for communication between “Emergency Search and Rescue (SAR) Team” and the affected citizens after a disaster such as an earthquake. This communication uses just built-in Bluetooth and GPS (no other mobile line capabilities) to send/receive information between the affected person and the SAR team. The affected person will install and store his/her information in this application, and at the same time, SAR team members also use this application on their smart-phones.
+The affected person under wreckage can send his/her geographic coordinates (gathered by GPS) by using Bluetooth technology to people nearby who are searching live people under the wreckage. The team members can see him/her on the offline map in the application. The affected person can also send text message (such as his/her situation) to them to guide SAR people. In addition to this, the affected person can send his/her profile (including name, surname, phone number, blood type, any family contact phone number, etc.) to team members so that they can inform his/her family and take precautions for medical care.
+This application can also be used to rescue lost climbers because of a disaster such as an avalanche, etc., in which mobile lines may not be available in high hills.
